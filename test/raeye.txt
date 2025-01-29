@@ -1,0 +1,15 @@
+ raeye Yohannes
+ RMKD-2184-2014
+sec-rcd 2014 e
+
+performance test and accesiblity 
+ Page Speed Testing with Google PageSpeed Lighthouse
+ i Implemented the suggested improvements then
+Run the audit again to check the effect of the changes.
+manual tests
+Functional Testing:
+i Verified that each feature works as expected (my navigation links, image galleries).
+i Tested all CRUD operations (Create, Read, Update, Delete) for all pages and it worked fine.
+Cross-Browser Testing:
+Test my portfolio website on different browsers (Chrome, and Edge) to ensure compatibility and it worked.
+these are the tests i could performe because its on local computer
